@@ -21,7 +21,7 @@ This repository is part of my journey to strengthen JavaScript fundamentals, bui
 | # | Project Name     | Folder Link       | Status |
 |---|------------------|-------------------|--------|
 | 1 | Accordion       | [01-accordion](01_accordion/)   | ✅ Done |
-| 2 | Random-Color     | [02-todo-list](02_randomcolorgenerator/)| ✅ Done |
+| 2 | Random-Color-Generator     | [02-random-color-generator](02_randomcolorgenerator/)| ✅ Done |
 > 🔄 This list will be updated as more projects are completed.
 
 ---

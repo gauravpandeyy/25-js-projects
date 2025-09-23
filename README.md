@@ -20,7 +20,7 @@ This repository is part of my journey to strengthen JavaScript fundamentals, bui
 
 | # | Project Name     | Folder Link       | Status |
 |---|------------------|-------------------|--------|
-| 1 | Accordion       | [01-accordion](01-accordion/)   | ✅ Done |
+| 1 | Accordion       | [01-accordion](01_accordion/)   | ✅ Done |
 | 2 | To-Do List       | [02-todo-list](02-todo-list/)| 🛠️ In Progress |
 > 🔄 This list will be updated as more projects are completed.
 

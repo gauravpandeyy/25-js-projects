@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;   
+}
+
+.container .change-theme-btn.light{
+    padding: 12px 20px;
+    border: none;
+    background-color: black;
+    font-size: 20px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.container .change-theme-btn.dark{
+    color: #000;
+    background-color: #fff;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+
+}
+
+
+body.light{
+    background-color: rgb(238, 55, 193);
+}
+
+body.dark{
+    background-color: blueviolet;
+}
